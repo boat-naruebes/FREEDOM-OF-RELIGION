@@ -1,0 +1,7 @@
+﻿margin: auto;
+display: ;
+text-align: center; ใช้แทน center ใน html
+nth-child:
+
+
+
